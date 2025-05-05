@@ -1,47 +1,100 @@
-## 🙋‍♂️ About Matthew Ketter, CSPO
+# **Matthew Ketter, CSPO**
 
-**Product Leader | AI Technologist | Software Engineer**
+Product Leader | AI Technologist | Software Engineer
 
-25+ years in software, specializing in product management, AI, and full-stack dev. I bridge complex tech and user-centric solutions across startups and enterprise environments.
+## **Professional Summary**
 
-## 🧳 Experience
+Over 25 years of experience in the software industry, specializing in **product management, software development/engineering**, and entrepreneurship. Expert in delivering scalable, user-focused solutions in regulated industries, leveraging **Agile methodologies**, and **AI-driven platforms**.
 
-**Product Engineer (5 years)**
+## **Professional Experience**
 
-Built AI tools including voice-integrated lead qualification platform **|** Set product roadmaps, delivered client-specific tools **|** Led Agile workshops (Scrum/Kanban)
+### **Product Engineer**
 
-**Product Manager / Owner (7 years)**
+#### Self-Employed | 2020 – Present
 
-Drove platform strategy **|** wrote 2,000+ user stories **|** Shipped 30+ launches across web/mobile/backend **|** Led modernization & compliance **|** created product documentation
+- Defined product roadmaps and led development for AI-driven platforms  
+- Spearheaded an **AI-powered** lead qualification platform, integrating streaming voice and data  
+- Conducted Scrum and Kanban training classes  
+- Collaborated with startup founders to align product vision with market needs, delivering ROI-focused presentations and custom integrations for client platforms
 
-**Software Engineer (7 years)**
+### **Product Manager & Product Owner**
 
-Built full-stack apps (Python, PHP, Java, JavaScript) **|** Delivered marketing attribution & analytics systems **|** Maintained high-availability infrastructure
+#### TwinSpires.com (Churchill Downs Inc.) | 2013 – 2020
 
-**Co-Founder / CTO (9 years)**
+- Directed product strategy for real-money wagering platforms, **authoring 2,000+ Agile user stories** and launching 30+ e-commerce, mobile app, and back-office initiatives  
+- Modernized legacy infrastructure, integrating new funding methods and enhancing compliance  
+- Acted as primary liaison for white-label affiliate partners, delivering custom integrations  
+- Created training decks, user guides, and release notes, enhancing product adoption and reducing customer support tickets by 10%
 
-Scaled PPC search engine to 1M+ DAUs **|** Built custom ecommerce platform **|** Provided web page development/hosting services
+### **Software Engineer**
 
-## 🗣️ Communication & Content
+#### TwinSpires.com (Churchill Downs Inc.) | 2006 – 2013
 
-Executive presentations, partner demos, onboarding **|** Training decks, user guides, internal process docs **|** End-user release notes, in-app messages **|** Published magazine tech articles (The Lane Report)
+- Developed **full-stack applications** using Python, PHP, Java, JavaScript, HTML/CSS  
+- Engineered backend services for affiliate attribution, KYC compliance, and marketing analytics, integrating with Google Tag Manager and third-party APIs  
+- Guided CMS migrations and designed architecture for web services  
+- Provided on-call support, delivering hotfixes, database patches, and optimizations for high-traffic wagering systems, ensuring 99.9% uptime
 
-## 🤝 Stakeholder Collaboration
+### **Co-Founder/CTO**
 
-Cross-time-zone coordination (India, CA, KY) **|** Cloud & DevOps: infrastructure planning, high-traffic reliability **|** Executive updates: roadmaps, alignment, reporting **|** BI team collaboration: metrics, KPIs, product strategy **|** QA: test strategy, automation, E2E validation **|** Support: tooling, onboarding, training
+#### JumpForce.com, LLC. & Chase Web Marketing Group, Inc. | 1997 – 2006
 
-## 🧰 Tools & Skills
+- Architected jumpforce.com, a pay-per-click search engine with real-time affiliate tracking and performance dashboards, **serving over one million daily active users** at peak  
+- Built teamzone.com, an early e-commerce platform for Kentucky Wildcats merchandise, featuring custom cart, checkout, and admin tools  
+- Provided web development and hosting services for 20+ small businesses
 
-**AI & Content:** ChatGPT, Gemini, Claude, Grok, NotebookLM, ElevenLabs, Synthesia
+## **Communication and Content Creation**
 
-**Development:** Python, Java, JS, PHP, SQL, HTML/CSS, Drupal, WordPress, Linux, Mac, Windows, Git, Docker, Jenkins, Visual Studio Code, Xcode, MySQL, PostgreSQL, SQLite, BigQuery, DynamoDB
+Skilled in translating complex technical concepts into clear, actionable communication for diverse stakeholders.
 
-**Cloud & Data:** AWS: EC2, S3, Lambda, API Gateway, CloudWatch, Google Cloud: BigQuery, Functions, Scheduler
+- **Executive & Partner Presentations** – Headed product walkthroughs and onboarding sessions for partners, clients, and C-suite stakeholders, including partner meetings and demos  
+- **Internal Training & Documentation** – Created training decks, user guides, and internal documentation to support product adoption, process consistency, and team onboarding  
+- **Client & End-User Communication** – Created clear and accessible release notes, product guides, and in-app messaging to support feature rollouts and reduce friction  
+- **Technology Writing** – Authored a series of articles for *The Lane Report* magazine
 
-**Product & Agile:** Scrum, Kanban, SAFe, Jira, Rally, Confluence, Trello
+## **Stakeholder Engagement & Collaboration**
 
-**Analytics:** GA, GTM, MicroStrategy, VWO, Emarsys
+Experienced collaborator with diverse teams to drive product development and achieve business goals.
 
-## 🎓 Certifications
+- **Global Resources** – Coordinated cross-functional teams in India, California, and Kentucky, maintaining agile velocity and clear communication across time zones  
+- **Cloud Operations & DevOps** – Partnered on infrastructure planning, deployment workflows, and ensuring system reliability during high-traffic events and releases  
+- **Executive Leadership** – Presented product updates, roadmap visibility, and strategic alignment to executive stakeholders  
+- **Business Intelligence** – Collaborated with BI teams to translate reporting insights into product decisions, performance metrics, and KPI alignment  
+- **Quality Assurance (QA)** – Defined test strategies, backed automation initiatives, and ensured full end-to-end validation prior to release  
+- **Customer/Tech Support** – Partnered with support teams to develop internal tools. Participated in training and onboarding sessions
 
-**Certified Scrum Product Owner**
+## **Tools & Skills**
+
+### **AI Platforms**
+
+- ChatGPT, Gemini, Claude, Grok, Perplexity, Replit, Google AI Studio, Canva  
+- Deep research workflows using ChatGPT, Gemini, Grok, NotebookLM  
+- Experience with APIs from OpenAI, Gemini, Claude, and Grok  
+- Content generation and media tools: ElevenLabs, Heygen and Synthesia
+
+### **Product & Methodologies**
+
+- Scrum, Kanban, Scaled Agile Framework Enterprise (SAFe)  
+- Jira, Rally, Confluence, Trello
+
+### **Software Development**
+
+- **Languages/CMS:** Python, Java, JavaScript, PHP, SQL, HTML/CSS, Drupal, WordPress  
+- **IDEs & Environments:** Linux, Mac OS X, Windows, Visual Studio Code, Xcode, Eclipse  
+- **VCS, CI/CD:** Git, Github, Docker, Jenkins, Bash scripting  
+- **Databases:** MySQL, Microsoft SQL, SQLite, PostgreSQL, DynamoDB, Google BigQuery
+
+### **Cloud Platforms**
+
+- **AWS:** EC2, S3, Lambda, API Gateway, CloudWatch, DynamoDB, SNS, SQS  
+- **Google Cloud:** BigQuery, Functions, Scheduler, Cloud Storage
+
+### **Analytics & Data**
+
+- Google Analytics, Google Tag Manager  
+- MicroStrategy, Localytics, VWO, Emarsys
+
+## **Education & Certifications**
+
+- **Certified Scrum Product Owner (CSPO)**, Scrum Alliance  
+- Eastern Kentucky University, Computer Science
