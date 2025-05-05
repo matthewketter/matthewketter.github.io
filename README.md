@@ -1,7 +1,3 @@
-# **Matthew Ketter, CSPO**
-
-Product Leader | AI Technologist | Software Engineer
-
 ## **Professional Summary**
 
 Over 25 years of experience in the software industry, specializing in **product management, software development/engineering**, and entrepreneurship. Expert in delivering scalable, user-focused solutions in regulated industries, leveraging **Agile methodologies**, and **AI-driven platforms**.
@@ -98,3 +94,7 @@ Experienced collaborator with diverse teams to drive product development and ach
 
 - **Certified Scrum Product Owner (CSPO)**, Scrum Alliance  
 - Eastern Kentucky University, Computer Science
+
+## Contact Info 
+
+ 📧 github [at] ketter [dot] org
