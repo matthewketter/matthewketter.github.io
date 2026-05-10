@@ -17,8 +17,7 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
 
     <style>
         :root {
@@ -216,8 +215,8 @@
             line-height: 1.2;
         }
 
-        .legal h2 + p,
-        .legal h2 + ul {
+        .legal h2+p,
+        .legal h2+ul {
             margin-top: 12px;
         }
 
@@ -232,7 +231,7 @@
             color: var(--text);
         }
 
-        .legal li + li {
+        .legal li+li {
             margin-top: 6px;
         }
 
@@ -345,7 +344,16 @@
                 <ul class="nav-links">
                     <li><a href="/#work">Work</a></li>
                     <li><a href="/#experience">Background</a></li>
-                    <li><a href="/#contact">Contact</a></li>
+                    <li>
+                        <a href="https://quillmark.ai/#contact" target="_blank"
+                            rel="noopener noreferrer" aria-label="Contact (opens in new tab on quillmark.ai)">
+                            Contact
+                            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                                <path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg>
+                        </a>
+                    </li>
                 </ul>
             </nav>
         </header>
@@ -393,7 +401,8 @@
                 <p>
                     This site links out to other sites I run or use, including
                     <a href="https://quillmark.ai" rel="noopener noreferrer" target="_blank">quillmark.ai</a>,
-                    <a href="https://complianceflag.com" rel="noopener noreferrer" target="_blank">complianceflag.com</a>,
+                    <a href="https://complianceflag.com" rel="noopener noreferrer"
+                        target="_blank">complianceflag.com</a>,
                     GitHub, and LinkedIn. Those sites have their own privacy practices and are not
                     covered by this notice.
                 </p>
@@ -419,8 +428,8 @@
 
                 <a class="back" href="/">
                     <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                        <path d="M19 12H5M11 18l-6-6 6-6" stroke="currentColor" stroke-width="2"
-                            stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M19 12H5M11 18l-6-6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round"></path>
                     </svg>
                     Back to home
                 </a>
