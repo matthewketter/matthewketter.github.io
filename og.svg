@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+    <defs>
+        <pattern id="grid" x="0" y="0" width="84" height="84" patternUnits="userSpaceOnUse">
+            <path d="M 84 0 L 0 0 0 84" fill="none" stroke="#071b3a" stroke-width="1" stroke-opacity="0.045"/>
+        </pattern>
+        <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#ffffff"/>
+            <stop offset="55%" stop-color="#fbfaf7"/>
+            <stop offset="100%" stop-color="#ffffff"/>
+        </linearGradient>
+    </defs>
+
+    <rect width="1200" height="630" fill="url(#paper)"/>
+    <rect width="1200" height="630" fill="url(#grid)"/>
+
+    <g transform="translate(80, 80)">
+        <rect width="72" height="72" rx="14" fill="#062a57"/>
+        <svg x="0" y="0" width="72" height="72" viewBox="0 0 64 64">
+            <path d="M16 48V16h6l10 18 10-18h6v32h-6V26L34 44h-4L20 26v22z" fill="#fbfaf7"/>
+        </svg>
+    </g>
+
+    <text x="80" y="320" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="700"
+        fill="#071b3a" letter-spacing="-1">Matthew Ketter</text>
+
+    <rect x="80" y="352" width="104" height="4" fill="#b86e16"/>
+
+    <text x="80" y="438" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, Inter, sans-serif"
+        font-size="34" font-weight="600" fill="#263244">AI tooling — CLIs, MCP servers, ChatGPT apps,</text>
+    <text x="80" y="486" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, Inter, sans-serif"
+        font-size="34" font-weight="600" fill="#263244">Codex and Claude Code plugins.</text>
+
+    <text x="1120" y="572" text-anchor="end"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, Inter, sans-serif" font-size="22"
+        font-weight="600" fill="#5d6878">ketter.dev</text>
+</svg>
